@@ -1,11 +1,11 @@
 
 ![License Badge](https://img.shields.io/badge/License-ISC-green.svg)
 
-Deployed on Heroku: https://safe-caverns-86515.herokuapp.com/
+Deployed on Heroku:  https://hidden-beach-02421.herokuapp.com/
 
-### Github Username: Wesaboo
+### Github Username: staffbotsteve
 
-Github Email Address: wesaboo@gmail.com
+Github Email Address: sactoswan@gmail.com
 
 ## Project/Repo Title: Note Taker
 
@@ -21,8 +21,4 @@ How to use: Enter title and note and hit the save floppy icon on the top right o
 
 License: ISC
 
-Contributor: Wesley Tran
-
-Test Code: 
-
-![Avatar](https://avatars0.githubusercontent.com/u/60164964?v=4)
+Contributor: Steve Swan
